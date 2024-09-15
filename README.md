@@ -91,9 +91,21 @@ To ensure the API functions correctly and meets all the specified criteria, we p
 
 4. Click on the "Import" button located in the top left corner of the Postman application.
 
-5. In the import window, click on "Upload Files" and select both JSON files you extracted earlier.
+   ![image](https://github.com/user-attachments/assets/a928dbf9-44ea-4a8c-865b-e78748662e3c)
 
-6. After the import is complete, you will see "Bookshelf API Test" collection and environment in your Postman workspace.
+6. In the import window, click on "Upload Files" and select both JSON files you extracted earlier.
+
+   ![image](https://github.com/user-attachments/assets/b5f45dce-cc65-48e8-8019-6cb3ead6c258)
+
+8. After the import is complete, you will see "Bookshelf API Test" collection and environment in your Postman workspace.
+
+   Collection
+
+   ![image](https://github.com/user-attachments/assets/759100cc-a415-4d0c-808c-44046c71509f)
+
+   Environment
+
+   ![image](https://github.com/user-attachments/assets/256aa12d-cb0f-4436-a512-903cb7c95d74)
 
 Now you can use these to test your Bookshelf API thoroughly. The collection includes various requests that cover all the required functionalities of the API.
 
