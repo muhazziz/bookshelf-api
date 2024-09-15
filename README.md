@@ -83,6 +83,9 @@ To ensure the API functions correctly and meets all the specified criteria, we p
 2. Extract the downloaded ZIP file. You should get two JSON files:
    - Bookshelf API Test.postman_collection.json
    - Bookshelf API Test.postman_environment.json
+   
+   ![image](https://github.com/user-attachments/assets/61c9a8a3-26c4-4829-93cd-4ec939191101)
+
 
 3. Open Postman application on your computer.
 
