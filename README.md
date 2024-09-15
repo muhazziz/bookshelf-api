@@ -74,6 +74,31 @@ npm run start-dev
 
 The server will start on `http://localhost:9000`.
 
+### Testing the API
+To ensure the API functions correctly and meets all the specified criteria, we provide a Postman Collection and Environment for testing. Follow these steps to use them:
+
+Download the test files from this link.
+Extract the downloaded ZIP file. You should get two JSON files:
+
+Bookshelf API Test.postman_collection.json
+Bookshelf API Test.postman_environment.json
+
+
+Open Postman application on your computer.
+Click on the "Import" button located in the top left corner of the Postman application.
+In the import window, click on "Upload Files" and select both JSON files you extracted earlier.
+After the import is complete, you will see "Bookshelf API Test" collection and environment in your Postman workspace.
+
+Now you can use these to test your Bookshelf API thoroughly. The collection includes various requests that cover all the required functionalities of the API.
+To run the tests:
+
+Make sure your Bookshelf API server is running.
+In Postman, select the "Bookshelf API Test" environment from the environment dropdown (usually in the top right corner).
+Open the "Bookshelf API Test" collection.
+You can either run individual requests or use the "Run Collection" feature to run all tests at once.
+
+These tests will help you verify that your API is working correctly and meeting all the specified requirements.
+
 ## Project Structure
 
 ```
