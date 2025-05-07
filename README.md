@@ -49,7 +49,7 @@ This certification ensures that the developer has the necessary skills and knowl
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/bookshelf-api.git
+   git clone https://github.com/muhazziz/bookshelf-api.git
    ```
 2. Navigate to the project directory:
    ```
